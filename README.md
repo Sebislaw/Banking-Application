@@ -13,6 +13,11 @@ Authors:
 
 
 
+<div align="center">
+  <img src="screen/readme1.png" width="900"/>
+</div>
+
+
 Used libraries:
 
 [miglayout:3.7.4](https://mvnrepository.com/artifact/com.miglayout/miglayout/3.7.4) from Maven Repository
