@@ -1,7 +1,7 @@
 # Banking Application
 ## ZPOiF - group project
 
-Froup project relized as a part of advanced object and functional programming course (ZPOiF - Zaawansowane Programowanie obiektowe i Funkcyjne).
+Group project relized as a part of advanced object and functional programming course (ZPOiF - Zaawansowane Programowanie obiektowe i Funkcyjne).
 
 
 Authors: 
